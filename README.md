@@ -5,29 +5,43 @@ A list of open source contributions via pull requests/commits/patches by Mendix 
 
 ## List of projects contributed to
 
-### [PostgreSQL service broker](https://github.com/cloudfoundry-community/postgresql-cf-service-broker)
+### PostgreSQL service broker
+https://github.com/cloudfoundry-community/postgresql-cf-service-broker
+
 "Click here to add a database to your application". Creating databases on a PostgreSQL instance, can be any PostgreSQL type (RDS or otherwise)
 
 
-### [S3 Service Broker](https://github.com/cloudfoundry-community/s3-cf-service-broker)
+### S3 Service Broker
+https://github.com/cloudfoundry-community/s3-cf-service-broker
+
 "Click here to add a file store to your applicaiton". Will create an S3 bucket and username/password for your application.
 
 
-### [CF Bosh Workspace](https://github.com/cloudfoundry-community/cf-boshworkspace)
+### CF Bosh Workspace
+https://github.com/cloudfoundry-community/cf-boshworkspace
+
 Bosh is a orchestration tool for deploying Cloud Foundry to various IaaS providers
 
 
-### [Terraform AWS CF Install](https://github.com/cloudfoundry-community/terraform-aws-cf-install)
+### Terraform AWS CF Install
+https://github.com/cloudfoundry-community/terraform-aws-cf-install
+
 Terraform provides a common configuration to launch infrastructure, in this case CF on AWS
 
 
-### [Keepalived](https://github.com/acassen/keepalived)
+### Keepalived
+https://github.com/acassen/keepalived
+
 The main goal of the keepalived project is to add a strong & robust keepalive facility to the Linux Virtual Server project.
 
-### [Ceph-Deploy](https://github.com/ceph/ceph-deploy/pull/315)
+### Ceph-Deploy
+https://github.com/ceph/ceph-deploy/pull/315
+
 Ceph is a distributed object store and file system designed to provide excellent performance, reliability and scalability.
 
-### [SEC: Simple Event Correlator](http://simple-evcorr.github.io/)
+### SEC: Simple Event Correlator
+http://simple-evcorr.github.io/
+
 SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
 
 ## Individual contributions
