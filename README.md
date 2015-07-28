@@ -49,6 +49,13 @@ https://github.com/gtaylor/python-route53
 
 The python-route53 Python package is a simple Python 3 compatible API for Amazon's Route 53.
 
+
+### Vagrant
+https://github.com/mitchellh/vagrant
+
+Vagrant is a tool for building and distributing development environments.
+
+
 ## Individual contributions
 
 1. https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/1
@@ -66,3 +73,4 @@ The python-route53 Python package is a simple Python 3 compatible API for Amazon
 12. https://github.com/ceph/ceph-deploy/pull/315
 13. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=669109
 14. https://github.com/gtaylor/python-route53/pull/11
+15. https://github.com/mitchellh/vagrant/pull/5325
