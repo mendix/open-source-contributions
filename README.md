@@ -44,6 +44,11 @@ http://simple-evcorr.github.io/
 
 SEC is an event correlation tool for advanced event processing which can be harnessed for event log monitoring, for network and security management, for fraud detection, and for any other task which involves event correlation.
 
+### Python-route 53
+https://github.com/gtaylor/python-route53
+
+The python-route53 Python package is a simple Python 3 compatible API for Amazon's Route 53.
+
 ## Individual contributions
 
 1. https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/1
@@ -60,3 +65,4 @@ SEC is an event correlation tool for advanced event processing which can be harn
 11. https://github.com/acassen/keepalived/pull/57
 12. https://github.com/ceph/ceph-deploy/pull/315
 13. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=669109
+14. https://github.com/gtaylor/python-route53/pull/11
