@@ -58,19 +58,26 @@ Vagrant is a tool for building and distributing development environments.
 
 ## Individual contributions
 
-1. https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/1
-2. https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/2
-3. https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/3
-4. https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/5
-5. https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/6
-6. https://github.com/cloudfoundry-community/cf-boshworkspace/pull/70
-7. https://github.com/cloudfoundry-community/cf-boshworkspace/pull/71
-8. https://github.com/cloudfoundry-community/cf-boshworkspace/pull/74
-9. https://github.com/cloudfoundry-community/terraform-aws-cf-install/pull/75
-10. https://github.com/acassen/keepalived/pull/53
-10. https://github.com/acassen/keepalived/pull/54
-11. https://github.com/acassen/keepalived/pull/57
-12. https://github.com/ceph/ceph-deploy/pull/315
-13. https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=669109
-14. https://github.com/gtaylor/python-route53/pull/11
-15. https://github.com/mitchellh/vagrant/pull/5325
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/1
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/2
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/3
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/4
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/5
+* https://github.com/cloudfoundry-community/postgresql-cf-service-broker/pull/6
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/3
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/5
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/6
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/7
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/8
+* https://github.com/cloudfoundry-community/s3-cf-service-broker/pull/10
+* https://github.com/cloudfoundry-community/cf-boshworkspace/pull/70
+* https://github.com/cloudfoundry-community/cf-boshworkspace/pull/71
+* https://github.com/cloudfoundry-community/cf-boshworkspace/pull/74
+* https://github.com/cloudfoundry-community/terraform-aws-cf-install/pull/75
+* https://github.com/acassen/keepalived/pull/53
+* https://github.com/acassen/keepalived/pull/54
+* https://github.com/acassen/keepalived/pull/57
+* https://github.com/ceph/ceph-deploy/pull/315
+* https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=669109
+* https://github.com/gtaylor/python-route53/pull/11
+* https://github.com/mitchellh/vagrant/pull/5325
