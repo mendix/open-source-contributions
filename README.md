@@ -55,6 +55,10 @@ https://github.com/mitchellh/vagrant
 
 Vagrant is a tool for building and distributing development environments.
 
+### Mobservable
+http://mweststrate.github.io/mobservable/
+
+Mobservable is Transparent Reactive Functional Programming library that keeps derived views and React components automatically in sync with the application state.
 
 ## Individual contributions
 
