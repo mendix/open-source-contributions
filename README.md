@@ -49,11 +49,15 @@ https://github.com/gtaylor/python-route53
 
 The python-route53 Python package is a simple Python 3 compatible API for Amazon's Route 53.
 
-
 ### Vagrant
 https://github.com/mitchellh/vagrant
 
 Vagrant is a tool for building and distributing development environments.
+
+### Moto
+https://github.com/spulec/moto
+
+Moto is a library that allows your python tests to easily mock out the boto library.
 
 ### Mobservable
 http://mweststrate.github.io/mobservable/
@@ -85,3 +89,4 @@ Mobservable is Transparent Reactive Functional Programming library that keeps de
 * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=669109
 * https://github.com/gtaylor/python-route53/pull/11
 * https://github.com/mitchellh/vagrant/pull/5325
+* https://github.com/spulec/moto/pull/635
